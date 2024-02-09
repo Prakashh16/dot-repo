@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JkG6Rqz+uaOhEhwyiliv3D1oOETxmcLNeUIXn+n8Ht9c1bekjfc3hGiA9nsquCdHmHmU4bSgfuc0WtOFvheECQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kumar.vishal\\Desktop\\TestConfig\\TestConfig\\TestConfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kumar.vishal\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\kumar.vishal\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\kumar.vishal\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
